@@ -1,5 +1,5 @@
 {
-"geo":"",
-"view":"",
-"appsChecker":"0"
+"geo":"NL",
+"view":"https://chancesyours.com/testapp",
+"appsChecker":"1"
 }
